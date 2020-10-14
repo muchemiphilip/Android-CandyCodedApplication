@@ -3,6 +3,7 @@ package com.pluralsight.candycoded;
 import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
@@ -71,4 +72,5 @@ public class DetailActivity extends AppCompatActivity {
     // ***
     // TODO - Task 4 - Share the Current Candy with an Intent
     // ***
+
 }
