@@ -13,14 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +65,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Suggestions" />
     <property name="project.structure.proportion" value="0.14285715" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recommended.upgrade.last.time.stamp" value="1602686608037" />
@@ -198,17 +192,26 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start the Google Maps Activity">
+      <created>1602697426195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602697426195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Google maps activity completion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Google maps activity completion" />
+    <MESSAGE value="Start the Google Maps Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start the Google Maps Activity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="96" width="1067" height="536" key="#PSD" timestamp="1602686826204">
+    <state x="200" y="96" width="1067" height="536" key="#PSD" timestamp="1602697717173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="200" y="96" width="1067" height="536" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1602686826204" />
+    <state x="200" y="96" width="1067" height="536" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1602697717173" />
     <state x="275" y="5" key="#Plugins" timestamp="1602694662094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -225,34 +228,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="508" y="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1602686730366" />
-    <state x="181" y="0" key="CommitChangelistDialog2" timestamp="1602697079931">
+    <state x="181" y="0" key="CommitChangelistDialog2" timestamp="1602697423759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="181" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602697079931" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1602696708728">
+    <state x="181" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602697423759" />
+    <state width="1306" height="178" key="GridCell.Tab.0.bottom" timestamp="1602700083842">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602696708728" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1602696708728">
+    <state width="1306" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602700083842" />
+    <state width="1306" height="178" key="GridCell.Tab.0.center" timestamp="1602700083841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602696708728" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1602696708728">
+    <state width="1306" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602700083841" />
+    <state width="1306" height="178" key="GridCell.Tab.0.left" timestamp="1602700083841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602696708728" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1602696708728">
+    <state width="1306" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602700083841" />
+    <state width="1306" height="178" key="GridCell.Tab.0.right" timestamp="1602700083841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602696708728" />
+    <state width="1306" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602700083841" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1602695540728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602695540728" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602696963580">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602699428951">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602696963580" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602699428951" />
     <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602688831113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
